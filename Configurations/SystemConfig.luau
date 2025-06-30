@@ -4,8 +4,7 @@
 --- SCRIPTS CREATED FOR THE USE OF BRAMPTON PRIMARY SCHOOL ONLY, THEY MUST NOT BE DISTRIBUTED EXTERNALLY TO ANY OTHER SOURCE ---
 --------------------------------------------------------------------------------------------------------------------------------
 
-local Config = {
-	["Dev"] = true,
-}
-
-return Config
+while true do
+	print("hi")
+	task.wait(0.5)
+end
